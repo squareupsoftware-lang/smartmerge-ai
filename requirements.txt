@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+python-multipart
+passlib
+python-jose
+rapidfuzz
+openpyxl
+requests
+PyQt5
